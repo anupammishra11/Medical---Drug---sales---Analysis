@@ -8,3 +8,29 @@ The objective of this project is to analyze and visualize the sales performance 
 - <a href="https://github.com/anupammishra11/Medical---Drug---sales---Analysis/blob/main/salesmonthly.csv">sales_monthly</a>
 - <a href="https://github.com/anupammishra11/Medical---Drug---sales---Analysis/blob/main/salesweekly.csv">sales_weekly</a>
 
+## Questions (KPIs)
+- What is the total revenue generated from drug sales this month?
+- Which medical drug had the highest total sales in the last quarter?
+- What is the average daily sales revenue?
+- During which hour of the day do most sales occur?
+- What is the month-over-month sales growth percentage?
+- Which day of the week consistently shows the highest sales volume?
+- How many unique medical products were sold this year?
+- What is the average number of units sold per product?
+- Which drug category (e.g., antibiotics, painkillers) contributes the most to revenue?
+- What is the percentage contribution of the top 5 drugs to total sales?
+
+- - <a href="[https://github.com/anupammishra11/Medical---Drug---sales---Analysis/blob/main/salesdaily.csv](https://github.com/anupammishra11/Medical---Drug---sales---Analysis/blob/main/Screenshot%202025-07-31%20194614.png)">View Dashboard</a>
+
+## Process
+- Problem Identification
+- Data Collection
+- Data Cleaning
+- Data Modeling
+- Dashboard Design
+- Insight Generation
+- Deployment to GitHub
+  
+## Dashboard
+
+<img width="1320" height="742" alt="Screenshot 2025-07-31 194614" src="https://github.com/user-attachments/assets/19f825be-3286-4f39-8aed-a9c15f82979c" />
