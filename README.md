@@ -34,3 +34,7 @@ The objective of this project is to analyze and visualize the sales performance 
 ## Dashboard
 
 <img width="1320" height="742" alt="Screenshot 2025-07-31 194614" src="https://github.com/user-attachments/assets/19f825be-3286-4f39-8aed-a9c15f82979c" />
+
+## Conclusion
+
+This Power BI dashboard provides a clear, data-driven view of medical drug sales trends across various timeframes. It enables quick decision-making, highlights top-performing products, and supports strategic planning for improved sales and inventory management.
